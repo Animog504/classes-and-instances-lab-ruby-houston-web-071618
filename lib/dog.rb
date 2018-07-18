@@ -2,4 +2,5 @@ class dog
   #I am dog. Boof
 end
 
-clifford = new dog()
+clifford = new dog
+thunderDog = new dog
