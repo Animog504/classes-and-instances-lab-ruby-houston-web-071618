@@ -2,6 +2,6 @@ class Dog
   #I am dog. Boof
 end
 
-clifford = new dog
-thunderDog = new dog
+clifford = Dog.new 
+thunderDog = Dog.new
 hershel = new dog
