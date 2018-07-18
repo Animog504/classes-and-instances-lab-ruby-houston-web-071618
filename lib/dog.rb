@@ -4,3 +4,4 @@ end
 
 clifford = new dog
 thunderDog = new dog
+hershel = new dog
