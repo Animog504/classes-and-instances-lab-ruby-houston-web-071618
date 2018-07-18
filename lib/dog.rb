@@ -4,4 +4,4 @@ end
 
 clifford = Dog.new 
 thunderDog = Dog.new
-hershel = new dog
+hershel = Dog.new
